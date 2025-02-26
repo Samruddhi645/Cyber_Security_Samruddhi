@@ -1,1 +1,2 @@
-# Cyber_Security_Samruddhi
+# Cyber_Security_Samruddh
+This project implements a technique for hiding data (such as text or files) within image files using steganography. The core idea is to encode secret information into the least significant bits of an image, ensuring that the modifications are not visible to the human eye. The project provides functionality for both hiding and extracting data from images, making it a useful tool for secure communication and data protection.
